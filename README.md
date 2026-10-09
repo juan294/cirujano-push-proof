@@ -21,3 +21,5 @@ Sample candidate-1 recorded for the push-proof cohort.
 Sample candidate-2 recorded for the push-proof cohort.
 
 Sample candidate-3 recorded for the push-proof cohort.
+
+Control sample: a direct push with no pull request.
