@@ -9,3 +9,5 @@ The CI workflow runs on pull requests into `develop` and on pushes to `develop`.
 Cirujano measures whether a push that only lands an already-green pull request can skip
 re-running the same jobs on the same tree, and publishes its evidence as a pull request
 here. No change merges automatically.
+
+Sample baseline-1 recorded for the push-proof cohort.
