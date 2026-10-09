@@ -15,3 +15,5 @@ Sample baseline-1 recorded for the push-proof cohort.
 Sample baseline-2 recorded for the push-proof cohort.
 
 Sample baseline-3 recorded for the push-proof cohort.
+
+Sample candidate-1 recorded for the push-proof cohort.
