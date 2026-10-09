@@ -1,0 +1,24 @@
+{
+  "name": "cirujano-public-optimization-benchmark",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@10.11.0",
+  "engines": {
+    "node": "22.20.0"
+  },
+  "scripts": {
+    "test": "vitest run --coverage"
+  },
+  "devDependencies": {
+    "@vitest/coverage-v8": "4.1.11",
+    "gatsby": "5.15.0",
+    "react-scripts": "5.0.1",
+    "typescript": "4.9.5",
+    "vitest": "4.1.11"
+  },
+  "dependencies": {
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  }
+}
